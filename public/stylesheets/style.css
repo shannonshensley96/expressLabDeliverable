@@ -1,0 +1,18 @@
+
+body {
+  padding: 50px;
+  font: 14px ;
+}
+a {
+  color: purple;
+}
+.delete-form {
+  display: inline-block;
+  margin-right: 10px;
+}
+.delete-form button {
+  color: blueviolet;
+}
+li {
+  list-style: none;
+}
